@@ -1,6 +1,6 @@
 Hi, I’m Alex Markin.
 
-I'm a junior front-end developer in Calgary, Canada.
+I'm a junior Frontend Software Engineer in Calgary, Canada.
 
 My latest project (work in progress): https://alex-markin.github.io/bike-landing/
 
