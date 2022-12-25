@@ -1,12 +1,13 @@
 Hi, I’m Alex Markin.
 
-I'm a junior front-end developer in Montreal, Canada.
+I'm a junior front-end developer in Calgary, Canada.
 
 ------
 📚  **My current stack:** 
 
 - HTML && CSS;
-- JS native.
+- JS native
+- React.js
 ------
 ✏️  **I'm currently learning:** 
 
@@ -15,12 +16,7 @@ I'm a junior front-end developer in Montreal, Canada.
 - MongoDB
 - Nest.js
 ------
-🧐  **I’m interested in next spheres:**
 
-- Fintech
-- Automotive
-- Real Estate
-------
 📫  **How to reach me**
 
 - E-mail: alex.markin.ca@gmail.com
