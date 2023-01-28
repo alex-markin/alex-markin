@@ -5,18 +5,14 @@ I'm a junior Frontend Software Engineer in Calgary, Canada.
 My latest project (work in progress): https://alex-markin.github.io/bike-landing/
 
 ------
-📚  **My current stack:** 
+Current Tech stack:
+• Languages & frameworks: JavaScript | HTML | CSS | 
+• Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API
 
-- HTML && CSS;
-- JS native
-- React.js
-------
-✏️  **I'm currently learning:** 
+Studying:
+• Languages: TypeScript
+• Frameworks and libs: React | Node.js | Redux | MongoDB | Nest.js
 
-- React
-- Node.js
-- MongoDB
-- Nest.js
 ------
 
 📫  **How to reach me**
