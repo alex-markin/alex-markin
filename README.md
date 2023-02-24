@@ -29,3 +29,4 @@ Mesto project - https://alex-markin.github.io/mesto-project/
 
 - E-mail: alex.markin.ca@gmail.com
 - Linked-in: https://www.linkedin.com/in/a-markin/
+- Codewars Profile: https://www.codewars.com/users/alex-markin
