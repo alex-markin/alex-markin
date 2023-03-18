@@ -4,6 +4,8 @@ I'm a junior Frontend Software Engineer in Calgary, Canada.
 
 My latest projects (work in progress):
 
+Charity Foundation project - https://alex-markin.github.io/charity-foundation-project/
+
 Bikes landing - https://alex-markin.github.io/bike-landing/
 
 Mesto project - https://alex-markin.github.io/mesto-project/ 
