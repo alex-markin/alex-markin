@@ -31,5 +31,5 @@ Mesto project - https://alex-markin.github.io/mesto-project/
 
 - E-mail: alex.markin.ca@gmail.com
 - Mobile: +1-403-819-8725
-- Linked-in: https://www.linkedin.com/in/a-markin/
+- LinkedIn: https://www.linkedin.com/in/a-markin/
 - Codewars Profile: https://www.codewars.com/users/alex-markin
