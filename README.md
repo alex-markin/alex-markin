@@ -1,8 +1,11 @@
-**Hi, I’m Alex Markin.**
+### Hi, I’m Alex Markin
 
 I'm a Frontend Software Engineer in Calgary, Canada.
 
-**My key projects (work in progress):**
+------
+
+
+#### My key projects (work in progress):
 
 Charity Foundation project - https://alex-markin.github.io/charity-foundation-project/
 
@@ -11,14 +14,14 @@ Bikes landing - https://alex-markin.github.io/bike-landing/
 Mesto project - https://alex-markin.github.io/mesto-project/ 
 
 ------
-**Current Tech stack:**
+#### Current Tech stack:
 
 
 • Languages & frameworks: JavaScript | HTML | CSS | React
 
 • Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API
 
-**Studying:**
+#### Studying:
 
 
 • Languages: TypeScript
