@@ -7,7 +7,7 @@ I'm a Frontend Software Engineer in Calgary, Canada.
 
 #### My key projects:
 
-Charity Foundation project - https://alex-markin.github.io/charity-foundation-project/
+Charity Foundation project (teamwork) - https://alex-markin.github.io/charity-foundation-project/
 
 Bikes landing - https://alex-markin.github.io/bike-landing/
 
