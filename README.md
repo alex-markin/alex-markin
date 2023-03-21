@@ -1,6 +1,6 @@
-Hi, I’m Alex Markin.
+**Hi, I’m Alex Markin.**
 
-I'm a junior Frontend Software Engineer in Calgary, Canada.
+I'm a Frontend Software Engineer in Calgary, Canada.
 
 **My key projects (work in progress):**
 
