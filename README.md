@@ -1,6 +1,6 @@
 ### Hi, I’m Alex Markin
 
-I'm a Frontend Software Engineer in Calgary, Canada.
+I'm a Frontend Software Engineer in Belgrade, Serbia.
 
 ------
 
@@ -33,6 +33,6 @@ Mesto project - https://alex-markin.github.io/mesto-project/
 📫  **How to reach me**
 
 - E-mail: alex.markin.ca@gmail.com
-- Mobile: +1-403-819-8725
+- Mobile: +381-638-347-856
 - LinkedIn: https://www.linkedin.com/in/a-markin/
 - Codewars Profile: https://www.codewars.com/users/alex-markin
