@@ -7,7 +7,7 @@ I'm a Frontend Software Engineer in Belgrade, Serbia.
 
 #### My key projects:
 
-Charity Foundation project (teamwork) - https://alex-markin.github.io/charity-foundation-project/
+Stellar burgers - https://alex-markin.github.io/react-stellar-burger/
 
 Bikes landing - https://alex-markin.github.io/bike-landing/
 
@@ -17,16 +17,13 @@ Mesto project - https://alex-markin.github.io/mesto-project/
 #### Current Tech stack:
 
 
-• Languages & frameworks: JavaScript | HTML | CSS | React
-
+• Languages: JavaScript | Typescript | HTML | CSS
+• Frameworks and libs: React | Redux toolit | React DnD | React Router
 • Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API
 
 #### Studying:
 
-
-• Languages: TypeScript
-
-• Frameworks and libs:  Node.js | Redux | MongoDB | Nest.js
+• Frameworks and libs:  Node.js | MongoDB | Nest.js
 
 ------
 
