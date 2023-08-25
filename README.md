@@ -17,8 +17,10 @@ Mesto project - https://alex-markin.github.io/mesto-project/
 #### Current Tech stack:
 
 
-• Languages: JavaScript | Typescript | HTML | CSS
+• Languages: JavaScript | Typescript | HTML | CSS  
+
 • Frameworks and libs: React | Redux toolit | React DnD | React Router
+
 • Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API
 
 #### Studying:
