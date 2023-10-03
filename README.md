@@ -1,11 +1,13 @@
 ### Hi, I’m Alex Markin
 
-I'm a Frontend Software Engineer in Belgrade, Serbia.
+I'm a Frontend Software Engineer in Montreal, Canada.
 
 ------
 
 
 #### My key projects:
+
+Portfolio - https://alex-markin.github.io/portfolio/
 
 Stellar burgers - https://alex-markin.github.io/react-stellar-burger/
 
