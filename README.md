@@ -15,6 +15,9 @@ Bikes landing - https://alex-markin.github.io/bike-landing/
 
 Mesto project - https://alex-markin.github.io/mesto-project/ 
 
+MBOU Algososh project - https://alex-markin.github.io/mbou_algososh/#/
+
+
 ------
 #### Current Tech stack:
 
@@ -23,7 +26,7 @@ Mesto project - https://alex-markin.github.io/mesto-project/
 
 • Frameworks and libs: React | Redux toolit | React DnD | React Router
 
-• Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API
+• Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API | Jest | Cypress
 
 #### Studying:
 
