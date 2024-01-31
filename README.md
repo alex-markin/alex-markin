@@ -1,36 +1,36 @@
 ### Hi, I’m Alex Markin
 
-I'm a Frontend Software Engineer in Montreal, Canada.
+I'm a Full Stack Software Engineer in Serbia.
 
 ------
 
+#### My portfolio: https://alex-markin.github.io/portfolio
 
+------
 #### My key projects:
 
-Portfolio - https://alex-markin.github.io/portfolio/
+Stellar burgers - https://alex-markin.github.io/react-stellar-burger
 
-Stellar burgers - https://alex-markin.github.io/react-stellar-burger/
+Bikes landing - https://alex-markin.github.io/bike-landing
 
-Bikes landing - https://alex-markin.github.io/bike-landing/
+Mesto project - https://alex-markin.github.io/mesto-project
 
-Mesto project - https://alex-markin.github.io/mesto-project/ 
-
-MBOU Algososh project - https://alex-markin.github.io/mbou_algososh/#/
+MBOU Algososh project - https://alex-markin.github.io/mbou_algososh
 
 
 ------
 #### Current Tech stack:
 
 
-• Languages: JavaScript | Typescript | HTML | CSS  
+• Languages: JavaScript | Typescript | HTML | CSS | Node.js
 
-• Frameworks and libs: React | Redux toolit | React DnD | React Router
+• Frameworks and libs: React | Redux toolit | React DnD | React Router | Express | MongoDB
 
 • Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API | Jest | Cypress
 
 #### Studying:
 
-• Frameworks and libs:  Node.js | MongoDB | Nest.js
+• Frameworks and libs: Nest.js
 
 ------
 
