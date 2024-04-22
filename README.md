@@ -17,6 +17,8 @@ Mesto project - https://alex-markin.github.io/mesto-project
 
 MBOU Algososh project - https://alex-markin.github.io/mbou_algososh
 
+KupiPodariDai Backend project - https://github.com/alex-markin/kupipodariday-backend
+
 
 ------
 #### Current Tech stack:
@@ -24,9 +26,9 @@ MBOU Algososh project - https://alex-markin.github.io/mbou_algososh
 
 • Languages: JavaScript | Typescript | HTML | CSS | Node.js
 
-• Frameworks and libs: React | Redux toolit | React DnD | React Router | Express | MongoDB
+• Frameworks and libs: React | Redux toolit | React Router | Express | MongoDB | Nest.js
 
-• Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API | Jest | Cypress
+• Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API | Jest | Cypress 
 
 #### Studying:
 
