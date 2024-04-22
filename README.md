@@ -30,9 +30,6 @@ KupiPodariDai Backend project - https://github.com/alex-markin/kupipodariday-bac
 
 • Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API | Jest | Cypress 
 
-#### Studying:
-
-• Frameworks and libs: Nest.js
 
 ------
 
