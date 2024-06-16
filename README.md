@@ -28,7 +28,7 @@ I'm a Full Stack Software Engineer in Serbia.
 
 - Frameworks and libs: React | Redux toolit | React Router | Express | MongoDB | Nest.js
 
-- Tools and technologies: WebPack | Git & GitHub | Figma | BEM | API | Jest | Cypress 
+- Tools and technologies: Docker & PM2 | Git & GitHub | Figma | BEM | API | Jest | Cypress 
 
 
 ------
