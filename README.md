@@ -9,15 +9,30 @@ I'm a Full Stack Software Engineer in Serbia.
 ------
 #### My key projects:
 
-- Stellar burgers - https://alex-markin.github.io/react-stellar-burger
+- KupiPodariDai project:
+  - https://github.com/alex-markin/kupipodariday-backend (repository)
+  - https://github.com/alex-markin/web-plus-docker-and-compose (Docker repository)
+  - https://markin.nomoredomainswork.ru (production)
+    
+- Stellar burgers:
+  - https://github.com/alex-markin/react-stellar-burger (repository)
+  - https://alex-markin.github.io/react-stellar-burger (production)
+ 
+- MBOU Algososh project:
+  - https://github.com/alex-markin/mbou_algososh (repository)
+  - https://alex-markin.github.io/mbou_algososh (production)
 
-- Bikes landing - https://alex-markin.github.io/bike-landing
-
-- Mesto project - https://alex-markin.github.io/mesto-project
-
-- MBOU Algososh project - https://alex-markin.github.io/mbou_algososh
-
-- KupiPodariDai Backend project - https://github.com/alex-markin/kupipodariday-backend
+- Mesto project (frontend):
+  - https://github.com/alex-markin/mesto-project (repository)
+  - https://alex-markin.github.io/mesto-project (production)
+ 
+- Mesto project (backend):
+  - https://github.com/alex-markin/mesto-project-plus (repository)
+  - https://markin.students.nomoredomainswork.ru (production)
+ 
+- Bikes landing:
+  - https://github.com/alex-markin/bike-landing (repository)
+  - https://alex-markin.github.io/bike-landing (production)
 
 
 ------
