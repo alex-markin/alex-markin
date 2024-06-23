@@ -2,6 +2,11 @@
 
 I'm a Full Stack Software Engineer in Serbia.
 
+Working for the largest IT company in Russia – Yandex, encouraged me to pursue a new
+career in the field of Software development. I value projects which make our world a better
+place and create value to users. Software development allows me to use my tech skills to
+participate in such projects and bring value to society and business.
+
 ------
 
 #### My portfolio: https://alex-markin.github.io/portfolio
