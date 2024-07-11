@@ -55,7 +55,7 @@ participate in such projects and bring value to society and business.
 
 📫  **How to reach me**
 
-- E-mail: alex.markin.ca@gmail.com
+- E-mail: m9857925000@gmail.com
 - Mobile: +381-698-121-766
 - LinkedIn: https://www.linkedin.com/in/a-markin/
 - Codewars Profile: https://www.codewars.com/users/alex-markin
